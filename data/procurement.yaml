@@ -8,6 +8,15 @@
   population: 1,418,788
   contributed_by: Alan Mond
   updated_at: 2015-10-07
+- agency: County of Phoenix
+  state: AZ
+  type: County
+  discretionary_threshold: $5,000
+  formal_threshold: 
+  formal_url: 'hhttps://www.phoenix.gov/finance/vendorsreg'
+  population: 1,513,000
+  contributed_by: Olga Burcham
+  updated_at: 2016-02-15
 - agency: Salt Lake City
   state: UT
   type: City
